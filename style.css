@@ -87,7 +87,8 @@ body {
 .main-box .text p {
   font-size: 17px;
   font-weight: 600;
-  color: hsl(215, 32%, 27%);
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
 }
 
 .main-box .avatar {
@@ -102,6 +103,7 @@ body {
   border: 1px solid #fff;
   border-radius: 66%;
   width: 30px;
+  height: 30px;
 }
 
 .main-box .avatar .box-1 img {
@@ -112,7 +114,8 @@ body {
   font-weight: 600;
   font-size: 15px;
   margin-left: 10px;
-  color: hsl(215, 32%, 27%);
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
 }
 
 .main-box .avatar h2 span {
@@ -150,5 +153,6 @@ body {
 .mid .clock h3 {
   font-size: 15px;
   margin-left: 10px;
-  color: hsl(215, 32%, 27%);
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
 }
